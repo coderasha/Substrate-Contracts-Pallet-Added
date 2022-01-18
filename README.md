@@ -1,6 +1,6 @@
 
 
-# Substrate Node Template
+# Substrate Node with WASM compatible programming compilation
 
 
 
